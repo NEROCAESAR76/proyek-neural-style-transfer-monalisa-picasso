@@ -64,7 +64,7 @@ Evaluasi performa model ini bersifat kualitatif dan subjektif, dinilai berdasark
 
 Gambar Konten (Contoh) | Gambar Gaya (Contoh) | Hasil Akhir |
 | :---: | :---: | :---: |
-| ![Mona Lisa](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg) | ![The Weeping Woman](https://www.pablopicasso.org/images/paintings/the-weeping-woman.jpg) | ![Hasil Style Transfer](dataset/Result.png) |
+| ![Mona Lisa]) | ![Hasil Style Transfer](dataset/Result.png) |
 
 
 Hasil akhir menunjukkan bahwa model berhasil mempertahankan struktur wajah Mona Lisa sambil mengadopsi palet warna, tekstur, dan goresan kuas yang khas dari gaya Picasso.
