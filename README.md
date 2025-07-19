@@ -64,7 +64,7 @@ Evaluasi performa model ini bersifat kualitatif dan subjektif, dinilai berdasark
 
 | Hasil Akhir |
 | :---: |
-| ![Hasil Style Transfer](../dataset/Result.png) |
+| ![Hasil Style Transfer](Dataset/Result.png) |
 
 Hasil akhir menunjukkan bahwa model berhasil mempertahankan struktur wajah Mona Lisa sambil mengadopsi palet warna, tekstur, dan goresan kuas yang khas dari gaya Picasso.
 
