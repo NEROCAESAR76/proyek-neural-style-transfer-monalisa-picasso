@@ -62,10 +62,9 @@ Proses optimisasi bertujuan untuk meminimalkan *total loss* yang merupakan gabun
 
 Evaluasi performa model ini bersifat kualitatif dan subjektif, dinilai berdasarkan visual.
 
-Gambar Konten (Contoh) | Gambar Gaya (Contoh) | Hasil Akhir |
-| :---: | :---: | :---: |
-| ![Mona Lisa]) | ![Hasil Style Transfer](dataset/Result.png) |
-
+| Hasil Akhir |
+| :---: |
+| ![Hasil Style Transfer](dataset/Result.png) |
 
 Hasil akhir menunjukkan bahwa model berhasil mempertahankan struktur wajah Mona Lisa sambil mengadopsi palet warna, tekstur, dan goresan kuas yang khas dari gaya Picasso.
 
